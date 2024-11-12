@@ -1,8 +1,6 @@
 {
     "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:bell"
-    },
+    "ingredient": "minecraft:bell",
     "result": {
         "id": "minecraft:player_head",
         "count": 1,

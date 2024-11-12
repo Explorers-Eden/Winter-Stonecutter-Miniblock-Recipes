@@ -1,8 +1,6 @@
 {
     "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:cookie"
-    },
+    "ingredient": "minecraft:cookie",
     "result": {
         "id": "minecraft:player_head",
         "count": 1,

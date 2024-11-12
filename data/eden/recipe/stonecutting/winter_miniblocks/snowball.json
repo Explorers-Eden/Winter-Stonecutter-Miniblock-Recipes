@@ -1,8 +1,6 @@
 {
     "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:snowball"
-    },
+    "ingredient": "minecraft:snowball",
     "result": {
         "id": "minecraft:player_head",
         "count": 1,

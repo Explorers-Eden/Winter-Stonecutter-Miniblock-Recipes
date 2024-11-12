@@ -1,8 +1,6 @@
 {
     "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:jukebox"
-    },
+    "ingredient": "minecraft:jukebox",
     "result": {
         "id": "minecraft:player_head",
         "count": 4,

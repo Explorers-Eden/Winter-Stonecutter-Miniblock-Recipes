@@ -1,8 +1,6 @@
 {
     "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:spruce_leaves"
-    },
+    "ingredient": "minecraft:spruce_leaves",
     "result": {
         "id": "minecraft:player_head",
         "count": 4,

@@ -1,8 +1,6 @@
 {
     "type": "minecraft:stonecutting",
-    "ingredient": {
-        "item": "minecraft:glass_bottle"
-    },
+    "ingredient": "minecraft:glass_bottle",
     "result": {
         "id": "minecraft:player_head",
         "count": 1,
