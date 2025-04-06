@@ -5,8 +5,12 @@
         "id": "minecraft:player_head",
         "count": 4,
         "components": {
-            "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Winter Slime\",\"translate\":\"miniblock.eden.winter_slime\",\"italic\":false}",
+            "minecraft:rarity": "common",
+            "minecraft:custom_name": {
+                "fallback":"Winter Slime",
+                "translate":"block.winter_miniblocks.winter_slime",
+                "italic":false
+            },
             "minecraft:profile": {
                 "properties": [
                     {

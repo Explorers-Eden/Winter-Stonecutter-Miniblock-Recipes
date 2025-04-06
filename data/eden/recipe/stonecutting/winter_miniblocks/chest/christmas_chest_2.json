@@ -5,8 +5,12 @@
         "id": "minecraft:player_head",
         "count": 4,
         "components": {
-            "minecraft:rarity": "uncommon",
-            "minecraft:custom_name": "{\"fallback\":\"Christmas Chest\",\"translate\":\"miniblock.eden.christmas_chest\",\"italic\":false}",
+            "minecraft:rarity": "common",
+            "minecraft:custom_name": {
+                "fallback":"Christmas Chest",
+                "translate":"block.winter_miniblocks.christmas_chest",
+                "italic":false
+            },
             "minecraft:profile": {
                 "properties": [
                     {
